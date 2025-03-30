@@ -3,3 +3,6 @@ langchain
 openai
 chromadb
 langchain_community 
+#langchain>=0.0.1  # Version minimale de langchain
+chromadb>=0.2.0   # Version minimale de chromadb
+openai>=0.27.0    # Version minimale de openai pour les embeddings
